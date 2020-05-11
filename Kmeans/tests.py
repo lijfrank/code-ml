@@ -1,6 +1,6 @@
 import pytest
 
-from kmeans import (
+from Kmeans import (
     point_avg,
     distance, 
     generate_k,
